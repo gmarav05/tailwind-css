@@ -9,6 +9,10 @@ Built with simple HTML5 and **Tailwind CSS**.
 
 ## Video
 
+
+https://github.com/user-attachments/assets/a3479de7-cb9d-4bc6-be60-1752808adeb1
+
+
 ## Image
 
 - Laptop
