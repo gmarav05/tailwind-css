@@ -20,7 +20,9 @@ Built with simple HTML5 and **Tailwind CSS**.
 
 - Phone 
 
-![](./images/landing_page_phone.png)
+
+<img src="./images/landing_page_phone.png" alt="Landing page on phone" width="200"/>
+
 
 ## Features
 
