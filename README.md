@@ -20,7 +20,7 @@ Built with simple HTML5 and **Tailwind CSS**.
 
 - Phone 
 
-![](./images/landing_page_phone.png.png)
+![](./images/landing_page_phone.png)
 
 ## Features
 
