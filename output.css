@@ -963,6 +963,10 @@ video {
 }
 
 @media (min-width: 768px) {
+  .md\:mb-64 {
+    margin-bottom: 16rem;
+  }
+
   .md\:h-screen {
     height: 100vh;
   }
